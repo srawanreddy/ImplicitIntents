@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="website_edittext_hint">Enter your website here</string>
+    <string name="search_button_text">Search</string>
+    <string name="location_edittext_hint">Enter your location here</string>
+    <string name="location_button_text">find location</string>
+    <string name="mesage_text">Enter your message here</string>
+    <string name="share_button_text">Share</string>
+</resources>
